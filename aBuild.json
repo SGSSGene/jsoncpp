@@ -3,7 +3,8 @@
 		{ "path": "lib_json",
 			"legacy": {
 				"includes": ["include/"]
-			}
+			},
+			"type": "library"
 		}
 	]
 }
