@@ -1,10 +1,10 @@
 {
 	"projects": [
 		{ "path": "lib_json",
+			"type": "library",
 			"legacy": {
 				"includes": ["include/"]
-			},
-			"type": "library"
+			}
 		}
 	]
 }
