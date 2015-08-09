@@ -1,4 +1,5 @@
 {
+	"name": "jsoncpp",
 	"projects": [
 		{ "path": "lib_json",
 			"type": "library",
