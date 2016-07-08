@@ -1,6 +1,6 @@
 name: jsoncpp
 projects:
-  - path: lib_json
+  - name: lib_json
     legacy:
       includes:
         - include/
