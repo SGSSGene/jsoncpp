@@ -1,3 +1,9 @@
+Adjusted for busy
+--------------------------
+This repository is adjusted to work with busy https://github.com/SGSSGene/busy
+.
+------------------------------------------------
+
 Introduction
 ------------
 
