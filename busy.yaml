@@ -3,4 +3,6 @@ projects:
   - name: lib_json
     legacy:
       includes:
-        - include/
+        - include
+    autoDependenciesDiscovery: false
+
